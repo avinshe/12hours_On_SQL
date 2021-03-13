@@ -1,6 +1,6 @@
 # 12hr_SQL_On_LeetCode
 
-I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior professional work experience. They seem to worship LeetCode. They would come to me with questions and I would explain the approach. It got me thinking - I wonder how I would do on these platforms.
+I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior professional work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these platforms.
 
 Having 5 years of industry experience in SQL, I knew not to spend too many days on LeetCode. As an obsessed gamer who spent 24-hour sessions playing chess and DotA in my teenage years, I knew I could manage sitting in front of a screen for 12 hours if it was interesting enough to get me obsessed again in my mid-20s.
 
