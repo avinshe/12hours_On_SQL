@@ -1,4 +1,4 @@
-# 12hr_SQL_On_LeetCode
+# My 12-hour Experience On SQL
 
 I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior professional work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these platforms.
 
