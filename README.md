@@ -33,7 +33,7 @@ Below are some of the questions that I noticed many of my classmates/friends hav
   - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan.
 
 - Q9. How many did you solve in 12 hours?
-  - I managed to solve 58 easy, 20 medium, and 8 hard ones.
+  - I managed to solve 57 easy, 20 medium, and 8 hard ones.
 
 - Q10. Did you take a break in between?
   - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who can focus on one activity for a long duration. I need to chill :)
