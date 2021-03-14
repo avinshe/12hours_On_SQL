@@ -13,10 +13,10 @@ Below are some of the questions that I noticed many beginners have:
   -   You’re not wrong, it's LeetCode! Few problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to the best of us.
 
 - Q3. How do I filter out good problems?
-  - Problems that end with the roman number series (I, II, III, IV, V) are the best ones. They mimic real-world questions. Each table will have a great definition. The difficulty gets harder as you move on with the series. It will tell a story as you look back and it helps understand the reason behind each problem in the sequence.
+  - Problems that end with the roman number series (I, II, III, IV, V) are the best ones. They mimic real-world questions. Each table will have a great definition. The difficulty gets harder as you move on with the series. It will tell a story as you look back and it helps understand the reason behind each problem in the sequence. 
 
 - Q4. How many problems should I solve in a day?
-  - Zero to infinity. You don’t have to solve any fixed number. A single problem can help you make progress more than 10 others combined.
+  - Zero to infinity. You don’t have to solve any fixed number. A single problem can help you make progress more than 10 others combined. They have a curated of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones. That should be enough for interview prep.
 
 - Q5. How long will it take to get good at SQL?
   - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not good at it. Problems are tricky and I had an acceptance rate of 60% for the 85 problems that I solved. 51 submissions were accepted on the first try. 34 required either minor corrections or debugging with test case inputs.
@@ -28,7 +28,7 @@ Below are some of the questions that I noticed many beginners have:
   - Yes, It was a good collection of different types of problems. I slapped myself few times for making stupid mistakes. I laughed at few problems because they were designed to ensure failure. Overall, it was fun!
 
 - Q8: Should I buy LeetCode premium for a year or go for the monthly plan?
-  - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan.
+  - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. 
 
 - Q9. How many did you solve in 12 hours?
   - I managed to solve 57 easy, 20 medium, and 8 hard ones.
