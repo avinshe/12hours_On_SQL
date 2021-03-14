@@ -2,9 +2,9 @@
 
 I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these platforms.
 
-Having 5 years of industry experience in SQL, I knew not to spend too many days on LeetCode. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to complete all SQL problems on LeetCode. Immediately, I noticed a problem. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “solving as much as I can in 12 hours”.
+Having 5 years of industry experience in SQL, I knew not to spend too many days on LeetCode (because being good at scripts is not the main criteria while looking into data). I decided to dedicate just one single day. I was an avid gamer in my teenage years spending 24-hour sessions on DotA and online chess so I thought I could focus 12 hours straight on SQL problems. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to complete all SQL problems on LeetCode. Immediately, I noticed a problem. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “solving as much as I can in 12 hours”.
 
-Below are some of the questions that I noticed many of my classmates/friends have:
+Below are some of the questions that I noticed many beginners have:
 
 - Q1. As a beginner, where do I start?
   - A basic understanding of discrete mathematics - set theory is a must before you start with SQL. Also, theory on RDBMS.
@@ -36,4 +36,6 @@ Below are some of the questions that I noticed many of my classmates/friends hav
 - Q10. Did you take a break in between?
   - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who can focus on one activity for a long duration. I need to chill :)
 
-I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder. To look at the questions, you must pay LeetCode.
+I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder. To look at the questions, you must pay LeetCode. 
+
+# GGWP NoRe
