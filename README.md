@@ -16,7 +16,7 @@ Below are some of the questions that I noticed many beginners have:
   - Problems that end with the roman number series (I, II, III, IV, V) are the best ones. They mimic real-world questions. Each table will have a great definition. The difficulty gets harder as you move on with the series. It will tell a story as you look back and it helps understand the reason behind each problem in the sequence. 
 
 - Q4. How many problems should I solve in a day?
-  - Zero to infinity. You don’t have to solve any fixed number. A single problem can help you make progress more than 10 others combined. They have a curated of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones. That should be enough for interview prep.
+  - Zero to infinity. You don’t have to solve any fixed number. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones. That should be enough for interview prep.
 
 - Q5. How long will it take to get good at SQL?
   - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not good at it. Problems are tricky and I had an acceptance rate of 60% for the 85 problems that I solved. 51 submissions were accepted on the first try. 34 required either minor corrections or debugging with test case inputs.
