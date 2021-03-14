@@ -34,8 +34,8 @@ Below are some of the questions that I noticed many beginners have:
   - I managed to solve 57 easy, 20 medium, and 8 hard ones.
 
 - Q10. Did you take a break in between?
-  - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who can focus on one activity for a long duration. I need to chill :)
+  - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who could focus on one activity for a long duration. I need to chill :)
 
-I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder. To look at the questions, you must pay LeetCode. 
+I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder (They are not the best solutions. I was rushing thorugh most of them). To look at the questions, you must pay LeetCode. 
 
 # GGWP NoRe
