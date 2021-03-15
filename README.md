@@ -28,7 +28,7 @@ Below are some of the questions that I noticed many beginners have:
   - Yes, It was a good collection of different types of problems. I slapped myself few times for making stupid mistakes. I laughed at few problems because they were designed to ensure failure. Overall, it was fun!
 
 - Q8: Should I buy LeetCode premium for a year or go for the monthly plan?
-  - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. 
+  - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. If you're a quick learner, you can do devour a book and solve 'em all in 2 weeks.
 
 - Q9. How many did you solve in 12 hours?
   - I managed to attempt 57 easy, 20 medium, and 8 hard ones. Stats avaiable in below screenshots.
