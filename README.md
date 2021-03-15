@@ -38,7 +38,7 @@ Below are some of the questions that I noticed many beginners have:
 
 I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder (They are not the best solutions. I was rushing thorugh most of them). To look at the questions, you must pay LeetCode. 
 
-# GGWP NoRe
+# GG No Re :P
 
 ![SQL 12 hour](https://user-images.githubusercontent.com/77905159/111124220-465e8c00-853e-11eb-98ea-b3518a36b53a.png)
 ![Session SQL](https://user-images.githubusercontent.com/77905159/111124222-46f72280-853e-11eb-865f-6134f98c4481.jpeg)
