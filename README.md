@@ -1,4 +1,4 @@
-# My 12-hour Experience On SQL solving
+# My 12-hour Journey On SQL solving
 
 ### **General advice:** I went completely bananas with my approach here (fueled by my obsessive behavior on things that I find interesting). 0/10 - I wouldn't recommend anyone to try this appraoch. Would you go all-in on your very first poker game? Naaaahh
 
