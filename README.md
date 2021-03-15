@@ -6,7 +6,7 @@ I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doin
 
 Having experience in SQL, I knew not to spend too many days on LeetCode because being good at scripts is not the main criteria while looking into data (domain knowledge stands much higher in my opinion). I decided to dedicate just one single day. As a full-time masters student, you rarely get to go a day without submissions. I was an avid gamer in my teenage years spending 24-hour sessions on DotA and online chess so I thought I could focus 12 hours straight on SQL problems. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to explore all SQL problems on LeetCode. It was a quantity over quality approach that I took to understand what beginners are asked to solve. Immediately, I noticed a problem. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “attempting as much as I can in 12 hours”.
 
-Below are some of the questions that I noticed many beginners have:
+Below are my thoughts and answers to some of the questions that I noticed many beginners have:
 
 - Q1. As a beginner, where do I start?
   - A basic understanding of [discrete mathematics - set theory](https://www.math.uh.edu/~dlabate/settheory_Ashlock.pdf) is a must before you start with SQL. At least, the first 6 pages on the link. Also, [theory on RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) - have an idea on all topics on the second link.
