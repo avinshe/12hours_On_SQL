@@ -1,6 +1,6 @@
 # My 12-hour Journey in solving SQLs
 
-### **General advice:** I went completely bananas with my approach here (fueled by my obsessive behavior on things that I find interesting). 0/10 - I wouldn't recommend anyone to try this approach. It is not sustainable. Would you go all-in on your very first poker game? Naaaahh
+### **General advice:** I went completely bananas with my approach here (fueled by my obsessive behavior on things that I find interesting). 0/10 - I wouldn't recommend anyone spending long hours on one activity. It is not sustainable. Would you go all-in on your very first poker game? Naaaahh
 
 I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these platforms.
 
