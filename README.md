@@ -10,7 +10,7 @@ Below are some of the questions that I noticed many beginners have:
   - A basic understanding of [discrete mathematics - set theory](https://www.math.uh.edu/~dlabate/settheory_Ashlock.pdf) is a must before you start with SQL. At least, the first 6 pages on the link. Also, [theory on RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) - have an idea on all topics on the second link.
 
 - Q2. I end up with a wrong solution even when I’m confident with the theory. What am I doing wrong here?
-  -   You’re not wrong, it's LeetCode! Few problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to the best of us.
+  -   You’re not wrong, it's LeetCode! Some problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to the best of us.
 
 - Q3. How do I filter out good problems?
   - Problems that end with the roman number series (I, II, III, IV, V) are the best ones. They mimic real-world questions. Each table will have a great definition. The difficulty gets harder as you move on with the series. It will tell a story as you look back and it helps understand the reason behind each problem in the sequence. 
@@ -31,7 +31,7 @@ Below are some of the questions that I noticed many beginners have:
   - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. 
 
 - Q9. How many did you solve in 12 hours?
-  - I managed to solve 57 easy, 20 medium, and 8 hard ones.
+  - I managed to attempt 57 easy, 20 medium, and 8 hard ones.
 
 - Q10. Did you take a break in between?
   - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who could focus on one activity for a long duration. I need to chill :)
@@ -39,3 +39,6 @@ Below are some of the questions that I noticed many beginners have:
 I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder (They are not the best solutions. I was rushing thorugh most of them). To look at the questions, you must pay LeetCode. 
 
 # GGWP NoRe
+
+![SQL 12 hour](https://user-images.githubusercontent.com/77905159/111124220-465e8c00-853e-11eb-98ea-b3518a36b53a.png)
+![Session SQL](https://user-images.githubusercontent.com/77905159/111124222-46f72280-853e-11eb-865f-6134f98c4481.jpeg)
