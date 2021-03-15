@@ -22,7 +22,7 @@ Below are some of the questions that I noticed many beginners have:
   - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not good at it. Problems are tricky and I had an acceptance rate of 60% for the 85 problems that I solved. 51 submissions were accepted on the first try. 34 required either minor corrections or debugging with test case inputs.
 
 - Q6. What can I do to go beyond solving problems?
-  - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Ask yourself why another code runs faster/slower and google every keyword. Do not just stop at understanding the functionality of the keyword, understand what is happening under the hood and check for its impact on explain plans for each code.
+  - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Ask yourself why another code runs faster/slower and google every keyword. Do not just stop at understanding the functionality of the keyword, understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
 
 - Q7. Did you benefit from LeetCode as an experienced person in SQL?
   - Yes, It was a good collection of different types of problems. I slapped myself few times for making stupid mistakes. I laughed at few problems because they were designed to ensure failure. Overall, it was fun!
@@ -31,7 +31,7 @@ Below are some of the questions that I noticed many beginners have:
   - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. 
 
 - Q9. How many did you solve in 12 hours?
-  - I managed to attempt 57 easy, 20 medium, and 8 hard ones.
+  - I managed to attempt 57 easy, 20 medium, and 8 hard ones. Stats avaiable in below screenshots.
 
 - Q10. Did you take a break in between?
   - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who could focus on one activity for a long duration. I need to chill :)
