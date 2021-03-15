@@ -1,4 +1,4 @@
-# My 12-hour Journey in solving SQLs
+# My 12-hour Journey on Solving SQLs
 
 ## **General advice:** I went completely bananas with my approach fueled by my obsessive behavior on things that I find interesting. I would not recommend anyone spending long hours on a single activity. It is unhealthy and unsustainable! 
 ### Would you go all-in on your very first poker game? Naaaahh
