@@ -10,7 +10,7 @@ Below are some of the questions that I noticed many beginners have:
   - A basic understanding of [discrete mathematics - set theory](https://www.math.uh.edu/~dlabate/settheory_Ashlock.pdf) is a must before you start with SQL. At least, the first 6 pages on the link. Also, [theory on RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) - have an idea on all topics on the second link.
 
 - Q2. I end up with a wrong solution even when I’m confident with the theory. What am I doing wrong here?
-  -   You’re not wrong, it's LeetCode! Some problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to the best of us.
+  -   You’re not wrong, it's LeetCode! Some problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to experienced folks as well.
 
 - Q3. How do I filter out good problems?
   - Problems that end with the roman number series (I, II, III, IV, V) are the best ones. They mimic real-world questions. Each table will have a great definition. The difficulty gets harder as you move on with the series. It will tell a story as you look back and it helps understand the reason behind each problem in the sequence. 
