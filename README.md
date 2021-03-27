@@ -10,7 +10,7 @@ Having experience in SQL, I knew not to spend too many days on LeetCode because 
 Below are my thoughts and answers to some of the questions that I noticed many beginners have:
 
 - Q1. As a beginner, where do I start?
-  - A basic understanding of [discrete mathematics - set theory](https://www.math.uh.edu/~dlabate/settheory_Ashlock.pdf) is a must before you start with SQL. At least, the first 6 pages on the link. Also, [theory on RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) - have an idea on all topics on the second link.
+  - A basic understanding of [discrete mathematics - set theory](https://www.math.uh.edu/~dlabate/settheory_Ashlock.pdf) is a must before you start with SQL. At least, the first 6 pages on the link. Also, [theory on RDBMS](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) - have an idea on all topics on the second link. It would be great if you can spend time understanding data architecture terms like granulairty, entity-relationship, tablespace, index and partitioning.
 
 - Q2. I end up with a wrong solution even when I’m confident with the theory. What am I doing wrong here?
   -   You’re not wrong, it's LeetCode! Some problems and test cases are unnecessarily tricky. They are so tricky that you might NEVER come across such petty tricks in a real job. Don’t be demotivated that a website says ”WRONG ANSWER” in big bold and red font. Happens to experienced folks as well.
