@@ -27,17 +27,23 @@ Below are my thoughts and answers to some of the questions that I noticed many b
 - Q6. What can I do to go beyond solving problems?
   - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Ask yourself why another code runs faster/slower and google every keyword. Do not just stop at understanding the functionality of the keyword, understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
 
-- Q7. Did you benefit from LeetCode as an experienced person in SQL?
-  - Yes, It was a good collection of different types of problems. I slapped myself few times for stupid mistakes that I made. I laughed at few problems because they were designed to ensure failure. Overall, it was fun!
+- Q7. How different is working in the industry when compared to leetcode?
+  - The complexity is similar but scale varies on your role.
+  - For software Engineers: You will access 2 tables at a time on average to get the required info displayed on your application.
+  - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts.
+  - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition.
+    - For a simple report on single area, you will access 2 facts and 5 dimensions.
+    - For a report on multiple areas, you might access 4 facts and 10 dimensions.
+  - For Data science Analytics: Hypothesis testing or A/B experimentations normally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple supporting metrics or guardrail metrics that comes other tables.
 
-- Q8: Should I buy LeetCode premium for a year or go for the monthly plan?
+- Q8. Did you benefit from LeetCode as an experienced person in SQL?
+  - Yes, It was a good collection of different types of problems. Even if you know most of the concepts, practice helps staying strong in the game. It helped recollect some of the way of solving that I had lost track of.
+
+- Q9: Should I buy LeetCode premium for a year or go for the monthly plan?
   - Its clever that they have 3-4 months price same as yearly price. 3 months is precisely how long you will need to explore a topic on LeetCode. It is safer to go for the yearly plan if you have exams and quizzes in between. However, if you are very disciplined and think you can stick to a plan, then I suggest you go for a monthly plan. If you're a quick learner, you can devour an SQL introduction book and solve 'em all in 2 weeks. (Speaking of only database section here)
 
-- Q9. How many did you solve in 12 hours?
-  - I managed to attempt 57 easy, 20 medium, and 8 hard ones. Stats avaiable in below screenshots.
-
-- Q10. Did you take a break in between?
-  - Yes, one at the 6-hour mark. And Another at the 9-hour mark. I am no longer that robotic teenager who could focus on one activity for a long duration. My mid-20s needs chillin fam! :)
+- Q10. How many did you solve in 12 hours?
+  - I managed to attempt 57 easy, 20 medium, and 8 hard ones.
 
 I screen-recorded my entire session. I then emailed LeetCode asking for their policy on posting it online. They mentioned that I cannot show their premium content on public websites. My solution codes are in the ‘scr’ folder (They are not the best solutions. I was rushing thorugh most of them). To look at the questions, you must pay LeetCode. 
 
