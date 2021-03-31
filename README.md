@@ -22,7 +22,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
 
 - Q5. How long will it take to get good at SQL?
-  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not great at it.
+  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not still not good at it :)
 
 - Q6. What can I do to go beyond solving problems?
   - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
