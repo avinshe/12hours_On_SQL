@@ -29,10 +29,10 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - For Data science ML/AI: I haven't had a chance to work on this role yet. Rather than being too specific with data, this role requires high throughput of large volumes of clean data from distributed systems. Most models will only access data once in a given timeframe to learn parameters. Some models will repeatedly access data in batches to learn and update often.
 
 - Q5. How many problems should I solve in a day?
-  - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
+  - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. LeetCode has a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
 
 - Q6. How long will it take to get good at SQL?
-  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I still find myself learning something new once in a while.
+  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I still find myself learning something new once in a while. Practice helps a lot. Sometimes, I forget how to perform simple stuff.
 
 - Q7. What can I do to go beyond solving problems?
   - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
