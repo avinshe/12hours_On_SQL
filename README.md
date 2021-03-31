@@ -27,7 +27,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
 - Q6. What can I do to go beyond solving problems?
   - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Ask yourself why another code runs faster/slower and google every keyword. Do not just stop at understanding the functionality of the keyword, understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
 
-- Q7. How different is working in the industry when compared to leetcode?
+- Q7. How different is working in the industry when compared to LeetCode?
   - The complexity is similar but scale varies on your role.
   - For software Engineers: You will access 2 tables at a time on average to get the required info displayed on your application.
   - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts.
