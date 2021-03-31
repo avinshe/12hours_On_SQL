@@ -32,8 +32,8 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - For software Engineers: You will access 2 tables at a time on average to get the required info displayed on your application.
   - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts.
   - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition.
-    - For a simple report on single area, you will access 2 facts and 5 dimensions.
-    - For a report on multiple areas, you might access 4 facts and 10 dimensions.
+    - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
+    - For a comprehensive executive dashboard on multiple areas, you might access 3+ facts and 10+ dimensions.
   - For Data science Analytics: Hypothesis testing or A/B experimentations normally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple supporting metrics or guardrail metrics that comes other tables.
 
 - Q8. Did you benefit from LeetCode as an experienced person in SQL?
