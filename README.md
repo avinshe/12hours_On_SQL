@@ -34,7 +34,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition.
     - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
     - For a comprehensive executive dashboard on multiple areas, you might access 3+ facts and 10+ dimensions.
-  - For Data science Analytics: Hypothesis testing or A/B experimentations normally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes other tables.
+  - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes other tables.
 
 - Q8. Did you benefit from LeetCode as an experienced person in SQL?
   - Yes, It was a good collection of different types of problems. Even if you know most of the concepts, practice helps staying strong in the game. It helped recollect some of the way of solving that I had lost track of.
