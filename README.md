@@ -25,7 +25,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not great at it.
 
 - Q6. What can I do to go beyond solving problems?
-  - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Ask yourself why another code runs faster/slower and google every keyword. Do not just stop at understanding the functionality of the keyword, understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
+  - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
 
 - Q7. How different is working in the industry when compared to LeetCode?
   - The complexity is similar but scale varies on your role.
