@@ -25,7 +25,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition.
     - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
     - For a comprehensive executive dashboard on multiple areas, you might access 3+ facts and 10+ dimensions.
-  - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes other tables.
+  - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes from other tables.
 
 - Q5. How many problems should I solve in a day?
   - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
