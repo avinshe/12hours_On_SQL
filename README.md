@@ -3,9 +3,9 @@
 ## **General advice:** I went completely bananas with my approach fueled by my obsessive behavior on things that I find interesting. I would not recommend anyone spending long hours on a single activity. It is unhealthy and unsustainable! 
 ### Would you go all-in on your very first poker game? Naaaahh
 
-I'm a civil engineer who worked on SQL related roles for 5 years. Now, I am doing my masters in data science. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these learning platforms.
+I'm a civil engineer who worked on SQL related roles for 5 years. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these learning platforms.
 
-Having experience in SQL, I knew not to spend too many days on LeetCode because being good at scripts is not the main criteria while looking into data (domain knowledge stands much higher in my opinion). I decided to dedicate just one single day. As a full-time grad student, you rarely get to go a day without submissions. I was an avid gamer in my teenage years spending 24-hour sessions on DotA and online chess. So, I thought I could focus 12 hours straight on SQL problems. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to explore all SQL problems on LeetCode. It was a quantity over quality approach that I took to understand what beginners are asked to solve. Immediately, I noticed a problem. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “attempting as much as I can in 12 hours”.
+Having experience in SQL, I knew not to spend too many days on LeetCode because being good at scripts is not the main criteria while looking into data (domain knowledge stands much higher in my opinion). I decided to dedicate just one single day. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to explore all SQL problems on LeetCode. It was a quantity over quality approach that I took to understand what beginners are asked to solve. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “attempting as much as I can in 12 hours”.
 
 Below are my thoughts and answers to some of the questions that I noticed many beginners have:
 
@@ -22,7 +22,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
 
 - Q5. How long will it take to get good at SQL?
-  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I am not still not good at it :)
+  - To start, pick 15 days and make progress each day. I’ve worked on SQL for few years and I still find myself learning something new once in a while.
 
 - Q6. What can I do to go beyond solving problems?
   - Check the discussion tab. Even if your code passed all test cases, have a look through other’s solutions for the same problem. Understand what is happening under the hood and check for its impact on explain plans for each code. Start understanding the architecture and code interpretations of different SQL engines.
