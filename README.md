@@ -20,12 +20,13 @@ Below are my thoughts and answers to some of the questions that I noticed many b
 
 - Q4. How different is working in the industry when compared to LeetCode?
   - The complexity is similar but scale varies on your role.
-  - For software Engineers: You will access 2 tables at a time on average to get the required info displayed on your application.
-  - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts.
-  - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition.
+  - For software Engineers: You will access 2 highly indexed transaction tables at a time on average to get the required info displayed on your application. Execution time should be within a second. (High user impact)
+  - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts. Execution time can go upto a couple of hours for batch loads as this would be a complete backend job. (Low user impact)
+  - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition. Execution time is normally few minutes. Anything more requires tuning or caching. 
     - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
     - For a comprehensive executive dashboard on multiple areas, you might access 3+ facts and 10+ dimensions.
-  - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes from other tables.
+  - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric from 1 table. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes from other tables. Again, this is a backend role that does not directly impact users, so execution time can be longer.
+  - For Data science ML/AI: I haven't had a chance to work on this role yet. Rather than being too specific with data, this role requires high throughput of large volumes of clean data from distributed systems. Most models will only access data once in a given timeframe to learn parameters. Some models will repeatedly access data in batches to learn and update often.
 
 - Q5. How many problems should I solve in a day?
   - Zero to infinity. If you're actually interested in "learning" databases, then it would be continuous learning as long as the industry keeps changing. On the other hand, for interview prep - you don’t have to solve any fixed number in a day. A single problem can help you make progress more than 10 others combined. They have a curated list of 70 SQL problems. Sort them by frequency and solve 30 easy, 10 medium and 5 hard ones.
