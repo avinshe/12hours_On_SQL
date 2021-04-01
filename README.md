@@ -3,7 +3,7 @@
 ### **General advice:** I went completely bananas with my approach fueled by my obsessive behavior on things that I find interesting. I would not recommend anyone spending long hours on a single activity. It is unhealthy and unsustainable! 
 ### Would you go all-in on your very first poker game? Naaaahh
 
-I'm a civil engineer who worked on SQL related roles for 5 years. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these learning platforms.
+I'm a civil engineer who worked on SQL related roles for 5 years and eventually decided to have a formal education on data science field. My roommates have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. r/SQL and r/learnSQL on Reddit also had similar questions. It got me thinking - I wonder how I would do on these learning platforms.
 
 Having experience in SQL, I knew not to spend too many days on LeetCode because being good at scripts is not the main criteria while looking into data (domain knowledge stands much higher in my opinion). I decided to dedicate just one single day. On a March 2021 night, I grabbed a big bowl of fruits, water, and some snacks for a 12-hour challenge that I set for myself to explore all SQL problems on LeetCode. It was a quantity over quality approach that I took to understand what beginners are asked to solve. A total of 152 problems meant that I had approximately 4 minutes for each. An unrealistic and silly goal given that it takes a couple of minutes to read and understand a problem. So, I changed the goal to “attempting as much as I can in 12 hours”.
 
