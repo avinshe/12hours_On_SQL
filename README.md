@@ -1,6 +1,6 @@
 # My advice for beginners on Solving SQLs
 
-## **General advice:** I went completely bananas with my approach fueled by my obsessive behavior on things that I find interesting. I would not recommend anyone spending long hours on a single activity. It is unhealthy and unsustainable! 
+### **General advice:** I went completely bananas with my approach fueled by my obsessive behavior on things that I find interesting. I would not recommend anyone spending long hours on a single activity. It is unhealthy and unsustainable! 
 ### Would you go all-in on your very first poker game? Naaaahh
 
 I'm a civil engineer who worked on SQL related roles for 5 years. My roommates and friends have not had prior work experience. They seem to worship LeetCode. They come to me with questions and I explain the approach. It got me thinking - I wonder how I would do on these learning platforms.
