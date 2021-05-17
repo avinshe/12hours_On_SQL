@@ -22,7 +22,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
   - The complexity is similar but scale varies on your role. Think of it as combining 20 problems on LeetCode to solve in a week.
   - For software Engineers: You will access 2 highly indexed transaction tables at a time on average to get the required info displayed on your application. Execution time should be within a second. (High user impact)
   - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts. Execution time can go upto a couple of hours for batch loads as this would be a complete backend job. (Low user impact)
-  - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition. Execution time is normally few minutes. Anything more requires tuning or caching. 
+  - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition. Execution time is normally under a minute. Anything more requires tuning or caching. 
     - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
     - For a comprehensive executive dashboard on multiple areas, you might access 3+ facts and 10+ dimensions.
   - For Data science Analytics: Hypothesis testing or A/B experimentations generally invloves tracking a single metric. To narrow down that single metric, you may join and filter on 2 to 3 other tables as per business scenarios. You could have multiple check metrics or guardrail metrics that comes from other tables. Again, this is a backend role that does not directly impact users, so execution time can be longer.
