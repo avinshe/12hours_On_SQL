@@ -20,7 +20,7 @@ Below are my thoughts and answers to some of the questions that I noticed many b
 
 - Q4. How different is working in the industry when compared to LeetCode?
   - The complexity is similar but scale varies on your role. Think of it as combining 20 problems on LeetCode to solve in a week.
-  - For software Engineers: You will access 2 highly indexed transaction tables at a time on average to get the required info displayed on your application. Execution time should be within a second. (High user impact)
+  - For software Engineers: You will access 2 highly indexed transaction tables at a time on average to get the required info displayed on your application. Execution time should be within a second. Most do not even require execution, just accessed through cache. (High user impact)
   - For Data Engineers: You will access 5 to 10 tables on average, perform checks, update lookups, and load facts. Execution time can go upto a couple of hours for batch loads as this would be a complete backend job. (Low user impact)
   - For Business Intelligence Engineers: Depends on the business area you work on as well as the schema definition. Execution time is normally under a minute. Anything more requires tuning or caching. 
     - For a simple scorecard on single area, you will access 2 facts and 5 dimensions.
